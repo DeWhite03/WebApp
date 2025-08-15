@@ -786,24 +786,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Denis\\.nuget\\packages\\": {}
+    "/home/denis/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\Documents\\Workspace\\c_sharp\\WebApp\\WebAppAPI\\WebAppAPI.csproj",
+      "projectUniqueName": "/home/denis/Documents/workspace/personal/learning/WebApp/WebAppAPI/WebAppAPI.csproj",
       "projectName": "WebAppAPI",
-      "projectPath": "C:\\Users\\Denis\\Documents\\Workspace\\c_sharp\\WebApp\\WebAppAPI\\WebAppAPI.csproj",
-      "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\Documents\\Workspace\\c_sharp\\WebApp\\WebAppAPI\\obj\\",
+      "projectPath": "/home/denis/Documents/workspace/personal/learning/WebApp/WebAppAPI/WebAppAPI.csproj",
+      "packagesPath": "/home/denis/.nuget/packages/",
+      "outputPath": "/home/denis/Documents/workspace/personal/learning/WebApp/WebAppAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Denis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/denis/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "/usr/lib64/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -822,7 +823,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -860,7 +861,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/9.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
